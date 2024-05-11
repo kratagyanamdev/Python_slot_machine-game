@@ -33,7 +33,6 @@ Clone this repository.
 Open the terminal/command prompt.
 Navigate to the project directory.
 Run the Python script:
-python main.py
+python main.py 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
